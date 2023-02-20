@@ -2,46 +2,71 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "CEO",
+      "title": "Minimal Audio",
+      "description": "Where I currently spend most of my time. I gathered the founding team and do as much as I can between operations, engineering, marketing, design etc..",
+      "tags": [
+        "CEO",
+        "C++",
+        "Rails"
+      ],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/Minimal_Audio.jpg",
+        "alt": "Minimal Audio",
+        "linkTo": "https://www.minima.audio"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://www.minimal.audio"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "Lead Engineer",
+      "title": "Output",
+      "description": "I started my career here and built my first handful of impactful products including Portal, Thermal, and Arcade.",
+      "tags": [
+        "Lead Engineer",
+        "C++"
+      ],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/Output.jpg",
+        "alt": "Output",
+        "linkTo": "https://www.output.com"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "type": "external",
+          "url": "https://www.output.com"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Teacher",
+      "title": "CalArts MTIID",
+      "description": "I did my undergraduate here and now enjoy teaching C++ to students as an adjunct faculty member.",
+      "tags": [
+        "Education",
+        "C++"
+      ],
+      "image": {
+        "src": "../../images/MTIID.jpg",
+        "alt": "MTIID",
+        "linkTo": "https://mtiid.calarts.edu"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://mtiid.calarts.edu"
         }
       ]
     }
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "Visit on Github",
     "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
   }
